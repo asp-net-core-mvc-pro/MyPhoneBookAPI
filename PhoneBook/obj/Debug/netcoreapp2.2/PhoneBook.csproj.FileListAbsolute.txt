@@ -1,0 +1,17 @@
+C:\Amir's Sample\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Amir's Sample\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Amir's Sample\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\Data\sampleData.json
+C:\Amir's Sample\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\PhoneBook.deps.json
+C:\Amir's Sample\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\PhoneBook.runtimeconfig.json
+C:\Amir's Sample\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\PhoneBook.runtimeconfig.dev.json
+C:\Amir's Sample\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\PhoneBook.dll
+C:\Amir's Sample\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.csprojAssemblyReference.cache
+C:\Amir's Sample\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.RazorAssemblyInfo.cache
+C:\Amir's Sample\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.RazorAssemblyInfo.cs
+C:\Amir's Sample\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.AssemblyInfoInputs.cache
+C:\Amir's Sample\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.AssemblyInfo.cs
+C:\Amir's Sample\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.RazorTargetAssemblyInfo.cache
+C:\Amir's Sample\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\config.json
+C:\Amir's Sample\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\PhoneBook.pdb
+C:\Amir's Sample\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.dll
+C:\Amir's Sample\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.pdb

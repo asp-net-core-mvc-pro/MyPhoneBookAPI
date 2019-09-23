@@ -1,0 +1,108 @@
+{
+	"info": {
+		"_postman_id": "46725120-e0d8-4a80-ae3e-d647bfae7b0b",
+		"name": "PhoneBook",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Contact",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3803/api/phonebook",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3803",
+					"path": [
+						"api",
+						"phonebook"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Contact By Id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3803/api/phonebook/2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3803",
+					"path": [
+						"api",
+						"phonebook",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Contact",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3803/api/phonebook/3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3803",
+					"path": [
+						"api",
+						"phonebook",
+						"3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Post Contact",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"Name\": \"Morsal\",\n\t\"PhoneNumber\": \"9125104169\",\n\t\"Address\": \"Iran\"\n}\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3803/api/phonebook",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3803",
+					"path": [
+						"api",
+						"phonebook"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
